@@ -1,0 +1,12 @@
+services:
+  dosint:
+    platform: linux/amd64
+    build: .
+    volumes:
+    - ./:/data
+    restart: on-failure
+    stdin_open: true
+    tty: true
+    command: /bin/bash
+    security_opt:
+      - seccomp:unconfined
