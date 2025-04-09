@@ -21,3 +21,20 @@ dOSINT es una herramienta diseñada para facilitar el análisis OSINT (Open Sour
 - **[StegSeek](https://github.com/RickdeJager/StegSeek)**: Herramienta para encontrar mensajes ocultos en imágenes mediante técnicas de esteganografía, utilizando una búsqueda rápida y eficiente.
 
 (Todas las herramientas están preinstaladas y listas para usarse en el contenedor.)
+
+## 📂 Contribuciones
+
+¡Las contribuciones son bienvenidas! Si tienes alguna herramienta que te gustaría agregar o alguna mejora para dOSINT, no dudes en hacer un pull request.
+
+## 🙏 Agradecimientos y Referencias
+
+Queremos agradecer a los desarrolladores de las siguientes herramientas, cuyas contribuciones hacen posible este proyecto:
+
+- **[ExifTool](https://github.com/exiftool/exiftool)**: Agradecemos a Phil Harvey por su trabajo en ExifTool, una herramienta esencial para la manipulación de metadatos en archivos multimedia.
+  
+- **[StegHide](https://github.com/graphicore/steg-hide)**: Gracias a la comunidad de *Graphicore* por desarrollar StegHide, una herramienta confiable para la esteganografía en imágenes.
+
+- **[StegSeek](https://github.com/RickdeJager/StegSeek)**: Agradecemos a Rick de Jager por crear StegSeek, una herramienta eficiente para la búsqueda de mensajes ocultos en imágenes utilizando técnicas de esteganografía.
+
+Estas herramientas son fundamentales para la recopilación de inteligencia de fuentes abiertas (OSINT) y la práctica de esteganografía. Sin su esfuerzo y dedicación, este proyecto no sería posible.
+
